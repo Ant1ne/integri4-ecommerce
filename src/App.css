@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cuprum:wght@600&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.sub_home {
+  margin-block: 50px;
+  color: #213a45;
+}
+.title-box {
+  border: 5px solid rgb(243, 239, 239);
+  position: relative;
+  background-color: rgb(135, 143, 143, 0.5);
+}
+.title-home {
+  font-family: "Sacramento", cursive;
+  text-transform: capitalize;
+  font-size: 3rem;
+  font-weight: 900;
+  position: absolute;
+  top: -1.5rem;
+  left: 30px;
+  margin-bottom: -2rem;
+  letter-spacing: 8px;
+}
+.subTitle {
+  position: absolute;
+  top: 1rem;
+  left: 30px;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.box-btn {
+  background-color: rgb(135, 143, 143, 0.5);
+  border: 2px solid rgb(243, 239, 239);
+  border-radius: 2px;
+}
+.box-btn:hover {
+  background-color: rgb(94, 134, 156, 0.3);
+  border: 2px solid rgb(135, 143, 143, 0.5);
+}
+.link-style {
+  color: #fdfeff;
+}
+.link-style:hover {
+  color: #3d6374;
+}
+.logo-font {
+  font-family: "Cuprum", sans-serif;
+}
+.digit-color {
+  color: red;
+}
